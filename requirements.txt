@@ -1,5 +1,4 @@
 streamlit
 black
 isort
-seaborn
-matplotlib
+plotly_express
